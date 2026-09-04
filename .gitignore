@@ -1,7 +1,6 @@
 # Compiled binaries
-buff
-buff2
-reference_null
+objects/*
+!objects/.gitkeep
 
 # macOS
 .DS_Store
