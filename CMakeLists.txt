@@ -13,3 +13,4 @@ add_executable(buff2
 add_executable(refer
         reference_null.c
 )
+add_executable(checkpass checkpass.c)
