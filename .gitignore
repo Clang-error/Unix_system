@@ -2,5 +2,8 @@
 objects/*
 !objects/.gitkeep
 
+#docs
+docs/
+
 # macOS
 .DS_Store
