@@ -1,5 +1,4 @@
 # Compiled binaries
-objects/*
 !objects/.gitkeep
 
 #docs
