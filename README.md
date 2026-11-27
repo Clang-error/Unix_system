@@ -1,7 +1,7 @@
-# 유닉스 시스템 프로그래밍 
+# Unix System Programming
 
-## 시스템 관련 프로그램 테스팅 및 공부용
+## For system-related program testing and study
 
-## 메모
-- gcc와 Cmake를 혼용함
-- gcc 컴파일 산출물은 objects 폴더에 모음
+## Note 
+- Mixing gcc and Cmake
+- gcc compilation output is collected in the objects folder
